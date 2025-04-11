@@ -6,3 +6,7 @@ api_resource.py
 thesis_data-old/
 thesis_data.zip
 datasets/
+.ipynb_checkpoints/
+*.zip
+images/
+llm_dep/
